@@ -1,0 +1,21 @@
+.sobre, footer {
+    margin-top: 1.5rem;
+    font-size: 1rem;
+}
+
+.sobre h1{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.bold, b {
+    font-weight: bold;
+}
+
+.sobre p {
+    margin-top: 1.5rem;
+}
+
+.italic {
+    font-style: italic;
+}
